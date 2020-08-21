@@ -1,2 +1,3 @@
 # arquitetura-css
-projeto Fruta&amp;fruto , no entanto focada na estrutura css do arquivo. Estou usando metodologia BEM e atmoic Desing para os nomes e separação dos arquivos
+curso de arquitetura da Alura. 
+https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
